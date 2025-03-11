@@ -1,2 +1,2 @@
 # Web-Scraping
-Easy way to webscrape any website you want
+Easy way to web scrape any website you want
